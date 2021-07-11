@@ -6,3 +6,6 @@ The Matlab algorithm of an approach of game theory for multi-ship collision avoi
 算法基于博弈论方法
 ## 版本日志
 1.7月11日建立文档
+
+
+陈鹏上传
